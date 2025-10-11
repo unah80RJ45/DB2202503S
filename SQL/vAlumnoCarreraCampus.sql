@@ -3,7 +3,7 @@
 create or alter view vAlumnoCarreraCampus
 with encryption
 as
-	select a.AlumnoID, a.Nombre NombreAlumno, a.CarreraID, c.Nombre NombreCarrera, c.CampusID, cm.Nombre NombreCampus
+	select a.AlumnoID, a.Nombre NombreAlumno, a.CarreraID, c.Nombre NombreCarrera, a.Direccion, c.CampusID, cm.Nombre NombreCampus
 	from Alumno as a
 	inner join Carrera as c on a.CarreraID = c.CarreraID
 	inner join Campus as cm on c.CampusID = cm.CampusID

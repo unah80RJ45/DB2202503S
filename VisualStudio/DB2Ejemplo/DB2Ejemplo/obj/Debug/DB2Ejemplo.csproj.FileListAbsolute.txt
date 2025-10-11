@@ -1,0 +1,13 @@
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\bin\Debug\DB2Ejemplo.exe.config
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\bin\Debug\DB2Ejemplo.exe
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\bin\Debug\DB2Ejemplo.pdb
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.csproj.AssemblyReference.cache
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.Form1.resources
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.frmAlumnos.resources
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.Properties.Resources.resources
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.csproj.GenerateResource.cache
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.exe
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.pdb
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.exe.config
+C:\Dev\UNAH\DB2202503S\VisualStudio\DB2Ejemplo\DB2Ejemplo\obj\Debug\DB2Ejemplo.frmAsignatura.resources

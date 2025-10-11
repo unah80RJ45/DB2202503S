@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E4BEBF-F7B7-496B-9DE4-5D9D0230A03F}|EjemploDB2\\EjemploDB2.csproj|c:\\dev\\unah\\db2202503s\\visualstudio\\ejemplodb2\\ejemplodb2\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E4BEBF-F7B7-496B-9DE4-5D9D0230A03F}|EjemploDB2\\EjemploDB2.csproj|solutionrelative:ejemplodb2\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E4BEBF-F7B7-496B-9DE4-5D9D0230A03F}|EjemploDB2\\EjemploDB2.csproj|C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\ejemplodb2\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E4BEBF-F7B7-496B-9DE4-5D9D0230A03F}|EjemploDB2\\EjemploDB2.csproj|solutionrelative:ejemplodb2\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E4BEBF-F7B7-496B-9DE4-5D9D0230A03F}|EjemploDB2\\EjemploDB2.csproj|C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\ejemplodb2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E4BEBF-F7B7-496B-9DE4-5D9D0230A03F}|EjemploDB2\\EjemploDB2.csproj|solutionrelative:ejemplodb2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAlumnos.cs",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\EjemploDB2\\frmAlumnos.cs",
+              "RelativeDocumentMoniker": "EjemploDB2\\frmAlumnos.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\EjemploDB2\\frmAlumnos.cs",
+              "RelativeToolTip": "EjemploDB2\\frmAlumnos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:14:56.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAlumnos.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\EjemploDB2\\frmAlumnos.cs",
+              "RelativeDocumentMoniker": "EjemploDB2\\frmAlumnos.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\EjemploDB2\\frmAlumnos.cs [Design]",
+              "RelativeToolTip": "EjemploDB2\\frmAlumnos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:14:00.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\EjemploDB2\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploDB2\\Form1.cs",
+              "ToolTip": "C:\\Dev\\UNAH\\DB2202503S\\VisualStudio\\EjemploDB2\\EjemploDB2\\Form1.cs [Design]",
+              "RelativeToolTip": "EjemploDB2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:10:33.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

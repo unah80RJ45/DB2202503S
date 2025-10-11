@@ -1,0 +1,17 @@
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\bin\Debug\net8.0-windows\EjemploDB2.exe
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\bin\Debug\net8.0-windows\EjemploDB2.deps.json
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\bin\Debug\net8.0-windows\EjemploDB2.runtimeconfig.json
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\bin\Debug\net8.0-windows\EjemploDB2.dll
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\bin\Debug\net8.0-windows\EjemploDB2.pdb
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.AssemblyInfoInputs.cache
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.AssemblyInfo.cs
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.csproj.CoreCompileInputs.cache
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.dll
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\refint\EjemploDB2.dll
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.pdb
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.genruntimeconfig.cache
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\ref\EjemploDB2.dll
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.Form1.resources
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.frmAlumnos.resources
+C:\Dev\UNAH\DB2202503S\VisualStudio\EjemploDB2\EjemploDB2\obj\Debug\net8.0-windows\EjemploDB2.csproj.GenerateResource.cache
